@@ -12,8 +12,6 @@ class bootstrap {
             case 'index';
                 $controller->getIndex();
                 break;
-
         }
-        print_r($url);
     }
 }
